@@ -1,0 +1,36 @@
+[2.159s] Invoking command in '/home/kanja-koduki/zypher_ws/src/prius_sdc_pkg': PYTHONPATH=/home/kanja-koduki/zypher_ws/build/prius_sdc_pkg/prefix_override:/home/kanja-koduki/zypher_ws/install/prius_sdc_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/prius_sdc_pkg build --build-base /home/kanja-koduki/zypher_ws/build/prius_sdc_pkg/build install --record /home/kanja-koduki/zypher_ws/build/prius_sdc_pkg/install.log --single-version-externally-managed
+[2.603s] running egg_info
+[2.636s] writing ../../build/prius_sdc_pkg/prius_sdc_pkg.egg-info/PKG-INFO
+[2.638s] writing dependency_links to ../../build/prius_sdc_pkg/prius_sdc_pkg.egg-info/dependency_links.txt
+[2.639s] writing entry points to ../../build/prius_sdc_pkg/prius_sdc_pkg.egg-info/entry_points.txt
+[2.639s] writing requirements to ../../build/prius_sdc_pkg/prius_sdc_pkg.egg-info/requires.txt
+[2.639s] writing top-level names to ../../build/prius_sdc_pkg/prius_sdc_pkg.egg-info/top_level.txt
+[2.709s] reading manifest file '../../build/prius_sdc_pkg/prius_sdc_pkg.egg-info/SOURCES.txt'
+[2.711s] writing manifest file '../../build/prius_sdc_pkg/prius_sdc_pkg.egg-info/SOURCES.txt'
+[2.711s] running build
+[2.711s] running build_py
+[2.712s] running install
+[2.714s] /home/kanja-koduki/.local/lib/python3.10/site-packages/setuptools/_distutils/cmd.py:66: SetuptoolsDeprecationWarning: setup.py install is deprecated.
+[2.714s] !!
+[2.714s] 
+[2.714s]         ********************************************************************************
+[2.714s]         Please avoid running ``setup.py`` directly.
+[2.714s]         Instead, use pypa/build, pypa/installer or other
+[2.715s]         standards-based tools.
+[2.715s] 
+[2.715s]         See https://blog.ganssle.io/articles/2021/10/setup-py-deprecated.html for details.
+[2.715s]         ********************************************************************************
+[2.715s] 
+[2.715s] !!
+[2.716s]   self.initialize_options()
+[2.725s] running install_lib
+[2.760s] running install_data
+[2.795s] running install_egg_info
+[2.830s] removing '/home/kanja-koduki/zypher_ws/install/prius_sdc_pkg/lib/python3.10/site-packages/prius_sdc_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[2.831s] Copying ../../build/prius_sdc_pkg/prius_sdc_pkg.egg-info to /home/kanja-koduki/zypher_ws/install/prius_sdc_pkg/lib/python3.10/site-packages/prius_sdc_pkg-0.0.0-py3.10.egg-info
+[2.832s] running install_scripts
+[3.141s] Installing driver_node script to /home/kanja-koduki/zypher_ws/install/prius_sdc_pkg/lib/prius_sdc_pkg
+[3.142s] Installing spawner_node script to /home/kanja-koduki/zypher_ws/install/prius_sdc_pkg/lib/prius_sdc_pkg
+[3.142s] Installing video_recorder script to /home/kanja-koduki/zypher_ws/install/prius_sdc_pkg/lib/prius_sdc_pkg
+[3.143s] writing list of installed files to '/home/kanja-koduki/zypher_ws/build/prius_sdc_pkg/install.log'
+[3.191s] Invoked command in '/home/kanja-koduki/zypher_ws/src/prius_sdc_pkg' returned '0': PYTHONPATH=/home/kanja-koduki/zypher_ws/build/prius_sdc_pkg/prefix_override:/home/kanja-koduki/zypher_ws/install/prius_sdc_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../../build/prius_sdc_pkg build --build-base /home/kanja-koduki/zypher_ws/build/prius_sdc_pkg/build install --record /home/kanja-koduki/zypher_ws/build/prius_sdc_pkg/install.log --single-version-externally-managed
